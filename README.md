@@ -1,4 +1,4 @@
-# DSLib-Modern-C-17-Data-Structures-Library
+# DSLib-Modern-C-Plus-Plus-17-Data-Structures-Library
 
 ### Introduction
 
