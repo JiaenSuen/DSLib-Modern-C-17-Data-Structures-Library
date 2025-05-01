@@ -11,4 +11,6 @@ Whether you need classic containers like linked lists and stacks or more complex
 * Hash :
   * Hash Set
   * Hash Map
-*
+* Heap
+  * max heap (numeric)
+  * min  heap (numeric)
