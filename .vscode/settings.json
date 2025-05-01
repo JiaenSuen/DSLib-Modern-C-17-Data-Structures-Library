@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "memory": "cpp",
+        "iostream": "cpp"
     }
 }
