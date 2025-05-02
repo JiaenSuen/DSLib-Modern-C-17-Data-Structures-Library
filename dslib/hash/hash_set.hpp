@@ -1,6 +1,6 @@
 #pragma once
-#ifndef DS_LIB_HASHING_HASH_LIST_HPP
-#define DS_LIB_HASHING_HASH_LIST_HPP
+#ifndef DS_LIB_HASHING_HASH_SET_HPP
+#define DS_LIB_HASHING_HASH_SET_HPP
 
 #include "hasher.hpp"
 #include "../../utils/ds_outputs.hpp"
